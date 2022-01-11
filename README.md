@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**abygtm/abygtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I have done my masters in Physics ( specialization in Quantum Cryptography). I like to read manga, online games, learning new things, challenges.
 
 - 🔭 I’m currently working on python
 - 🌱 I’m currently learning android.
@@ -13,5 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: message me.
 - 😄 Pronouns: 
 - ⚡ Fun fact: You should really try reading manga in this life.
-
-I have done my masters in Physics ( specialization in Quantum Cryptography). I like to read manga, online games, learning new things, challenges.
