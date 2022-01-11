@@ -11,3 +11,9 @@ I have done my masters in Physics ( specialization in Quantum Cryptography). I l
 - 📫 How to reach me: message me.
 - 😄 Pronouns: 
 - ⚡ Fun fact: You should really try reading manga in this life.
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Abhay GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abygtm&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+
+</details>
